@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amaralp/typescript-exercise#readme",
   "devDependencies": {
+    "@types/node": "^18.0.6",
     "typescript": "^4.7.4"
   }
 }

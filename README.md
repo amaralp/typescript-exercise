@@ -9,5 +9,5 @@ Bonus: if items are the same priority, they would be FIFO, but doesn't have to b
 ## Commands to run the exercise
 ```
 npm install
-npm start
+node test.js 
 ```
